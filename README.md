@@ -1,4 +1,4 @@
-dejavu
+dejavu [![Build Status](https://travis-ci.com/Zizouz212/dejavu.svg?branch=master)](https://travis-ci.com/Zizouz212/dejavu)
 ==========
 
 Audio fingerprinting and recognition algorithm implemented in Python, see the explanation here:  
